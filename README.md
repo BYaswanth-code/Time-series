@@ -55,7 +55,8 @@ It covers preprocessing, statistical tests, visualization techniques, and transf
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/time-series-analysis.git
-   cd time-series-analysis
+  https://github.com/BYaswanth-code/Time-series.git
+  
+   
 
 Credits: This project is inspired from https://www.geeksforgeeks.org/data-analysis/time-series-data-visualization-in-python/
