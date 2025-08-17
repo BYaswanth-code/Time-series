@@ -54,7 +54,7 @@ It covers preprocessing, statistical tests, visualization techniques, and transf
 
 ## 🚀 How to Run
 1. Clone the repository: https://github.com/BYaswanth-code/Time-series.git
-   ```bash
+   ```https://github.com/BYaswanth-code/Time-series.git bash
   
   
    
